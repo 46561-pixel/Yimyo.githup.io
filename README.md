@@ -1,4 +1,4 @@
-# 🌟 Yosita Supinna (Yimyo)
+ Yosita Supinna (Yimyo)
 
 ## 👤 Personal Information
 - **Name:** Yosita Supinna  
@@ -41,7 +41,7 @@
 ## 🎯 Career Goal
 I would like to have a stable career in the future and achieve my dream of traveling around the world.
 
----
+
 
 ## 📞 Contact
 - **Email:** yaowapa08032549@gmail.com  

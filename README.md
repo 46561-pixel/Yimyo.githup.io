@@ -1,6 +1,6 @@
- Yosita Supinna (Yimyo)
+## Yosita Supinna (Yimyo) 🍅
 
-## 👤 Personal Information
+## 🕵🏻‍♀️ Personal Information
 - **Name:** Yosita Supinna  
 - **Nickname:** Yimyo  
 - **Age:** 20  
